@@ -3,4 +3,4 @@
 Hello,
 
 This is a test file. 
-est file for GitHub
+Test file for GitHub
